@@ -1,0 +1,5 @@
+﻿  加法.cpp
+C:\Users\Administrator\Desktop\C++\高精度计算\加法.cpp(11,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\C++\高精度计算\加法.cpp(27,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\C++\高精度计算\加法.cpp(39,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  高精度计算.vcxproj -> C:\Users\Administrator\Desktop\C++\高精度计算\x64\Debug\高精度计算.exe

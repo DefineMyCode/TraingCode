@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Administrator\Desktop\C++\背包问题\源.cpp(78,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\C++\背包问题\源.cpp(86,9): warning C4101: “k”: 未引用的局部变量
+  背包问题.vcxproj -> C:\Users\Administrator\Desktop\C++\背包问题\x64\Debug\背包问题.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Administrator\Desktop\C++\leetcode_1143. 最长公共子序列\源.cpp(50,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\C++\leetcode_1143. 最长公共子序列\源.cpp(51,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  leetcode_1143. 最长公共子序列.vcxproj -> C:\Users\Administrator\Desktop\C++\leetcode_1143. 最长公共子序列\x64\Debug\leetcode_1143. 最长公共子序列.exe
